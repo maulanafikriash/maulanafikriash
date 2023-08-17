@@ -1,4 +1,11 @@
-### Hi there 👋
+# Halo Semua 👋 
+
+Perkenalkan nama saya **Maulana Fikri Ash-Shidiq**.\
+Saya seorang **Mahasiswa Aktif** di [Universitas Bina Sarana Informatika](https://bsi.id/).\
+Saya senang belajar pemrograman terutama Front-end web, berikut [sertifikasi Dasar Pemrograman JavaScript](https://www.dicoding.com/certificates/1RXY67N2MZVM).\
+Saya juga mengikuti organisasi di [Himpunan Mahasiswa Sistem Infomasi](https://himsikaliabang.com/) sejak 2021.
+
+Sosial Media: [Instagram](https://www.instagram.com/maulanafikri.ash).
 
 <!--
 **maulanafikriash/maulanafikriash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
