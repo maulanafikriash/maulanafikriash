@@ -1,4 +1,4 @@
-# Halo Semua 👋 
+# Hi Guys 👋 
 
 Perkenalkan nama saya **Maulana Fikri Ash-Shidiq**.\
 Saya seorang **Mahasiswa Aktif** di [Universitas Bina Sarana Informatika](https://bsi.id/).\
