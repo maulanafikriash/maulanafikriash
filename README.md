@@ -3,9 +3,10 @@
 Perkenalkan nama saya **Maulana Fikri Ash-Shidiq**.\
 Saya seorang **Mahasiswa Aktif** di [Universitas Bina Sarana Informatika](https://bsi.id/).\
 Saya senang belajar pemrograman terutama Front-end web, berikut [sertifikasi Dasar Pemrograman JavaScript](https://www.dicoding.com/certificates/1RXY67N2MZVM).\
-Saya juga mengikuti organisasi di [Himpunan Mahasiswa Sistem Infomasi](https://himsikaliabang.com/) sejak 2021.
+Saya juga mengikuti organisasi di [Himpunan Mahasiswa Sistem Infomasi](https://himsikaliabang.com/) periode 2021-2023.
 
-Sosial Media: [Instagram](https://www.instagram.com/maulanafikri.ash).
+Sosial Media: [Instagram](https://www.instagram.com/maulanafikri.ash),
+              [LinkedIn](https://www.linkedin.com/in/maulanafikriash/)
 
 ### Github Statistic
 <p align="left">
