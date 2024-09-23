@@ -2,7 +2,12 @@
 
 Perkenalkan nama saya **Maulana Fikri Ash-Shidiq**.\
 Saya seorang **Mahasiswa Aktif** di [Universitas Bina Sarana Informatika](https://bsi.id/).\
-Saya senang belajar pemrograman terutama Front-end web, berikut [sertifikasi Dasar Pemrograman JavaScript](https://www.dicoding.com/certificates/1RXY67N2MZVM).\
+Saya senang belajar pemrograman terutama Front-End Web, berikut sertifikat pembelajaran yang saya peroleh dari [Dicoding Indonesia](https://www.dicoding.com/)
+- [Sertifikat Belajar Dasar Pemrograman JavaScript](https://www.dicoding.com/certificates/1RXY67N2MZVM)
+- [Sertifikat Belajar Membuat Front-End Web untuk Pemula](https://www.dicoding.com/certificates/QLZ9R820EP5D)
+- [Sertifikat Belajar Fundamental Front-End Web Development](https://www.dicoding.com/certificates/QLZ9RQ9V2P5D)
+- [Sertifikat Menjadi Front-End Web Developer Expert](https://www.dicoding.com/certificates/MRZMLJ13KXYQ)<br>
+
 Saya juga mengikuti organisasi di [Himpunan Mahasiswa Sistem Infomasi](https://himsikaliabang.com/) periode 2021-2023.
 
 Sosial Media: [Instagram](https://www.instagram.com/maulanafikri.ash),
