@@ -10,7 +10,7 @@ Saya senang belajar pemrograman terutama Front-End Web, berikut sertifikat pembe
 
 Saya juga mengikuti organisasi di [Himpunan Mahasiswa Sistem Infomasi](https://himsikaliabang.com/) periode 2021-2023.
 
-Sosial Media: [Instagram](https://www.instagram.com/maulanafikri.ash),
+Sosial Media: [Instagram](https://www.instagram.com/maulanafikriash),
               [LinkedIn](https://www.linkedin.com/in/maulanafikriash/)
 
 ### Github Statistic
